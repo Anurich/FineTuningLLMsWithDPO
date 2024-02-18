@@ -15,3 +15,4 @@ The Library used in this project are:
   <li>HuggingFace</li>
 </ol>
 
+It also contains the file which shows how we can convert the dataset into the DPO format dataset. Read the medium article to get a better understanding of the complete project. If you feel like there are somethings that need to be changed or some advice on how we can improve the current system don't hesitate to write to me. Feel free to utilise the code and create awsome project in the field of NLP.
